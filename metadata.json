@@ -1,0 +1,6 @@
+{
+  "name": "PetWorld – Premium Pet Supplies",
+  "description": "Premium e-commerce platform for pet food, toys, grooming, accessories, and pet wellness with customer store, admin portal, and order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
